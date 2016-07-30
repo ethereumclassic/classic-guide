@@ -7,7 +7,7 @@ Introduction
 
    what-is-ethereum.rst
    how-to-use-this-guide.rst
-   the-homestead-release.rst
+   The-Classic-release.rst
 
    web3.rst
    history-of-ethereum.rst

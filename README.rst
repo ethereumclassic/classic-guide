@@ -1,30 +1,30 @@
 *****************************
-Homestead-Guide
+Classic-Guide
 *****************************
 |Gitter|
 
-.. |Gitter| image:: https://badges.gitter.im/ethereum/homestead-guide.svg
-   :target: https://gitter.im/ethereum/homestead-guide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+.. |Gitter| image:: https://badges.gitter.im/ethereumclassic/classic-guide.svg
+   :target: https://gitter.im/ethereumclassic/classic-guide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
 
-The Ethereum Homestead Guide is the reference documentation accompanying the Homestead release of the Ethereum project.
+The Ethereum Classic Guide is the reference documentation accompanying the hard-fork of the Ethereum project.
 
 `Hosted on ReadTheDocs`_
 
 HOW YOU CAN HELP
 ================================================================================
-**Homestead Documentation Initiative**
+**Classic Documentation Initiative**
 
 It doesn't matter if you are a beginner or an expert, there are many ways to help.
 
 Write Content to the Guide
 --------------------------------------------------------------------------------
-Help transfer and update content from the Ethereum Wiki, Ethereum Frontier Guide, the Ethereum Stack Exchange, or any other reputable source to relevant pages of the Homestead guide. Alternatively, write your own content for the guide based on experience.
+Help transfer and update content from the Ethereum Wiki, Ethereum Frontier Guide, the Ethereum Stack Exchange, Ethereum Homestead Guide or any other reputable source to relevant pages of the Classic guide. Alternatively, write your own content for the guide based on experience.
 
-Make sure the documentation you are porting over is still accurate and follows our guidelines for the Homestead docs (https://ethereum-homestead.readthedocs.org/en/latest/about.html).
+Make sure the documentation you are porting over is still accurate and follows our guidelines for the Classic docs (https://ethereum-homestead.readthedocs.org/en/latest/about.html).
 
 Review What Has Been Written
 --------------------------------------------------------------------------------
-Have a look at our guide (https://ethereum-homestead.readthedocs.org/en/latest/) and give us feedback by visiting our Gitter Chatroom (https://gitter.im/ethereum/homestead-guide) or submit a pull request or issue to this repo. Too EZ.
+Have a look at our guide (https://ethereum-homestead.readthedocs.org/en/latest/) and give us feedback by visiting our Gitter Chatroom (https://gitter.im/ethereumclassic/classic-guide) or submit a pull request or issue to this repo. Too EZ.
 
 What's In It For Me?
 --------------------------------------------------------------------------------
@@ -67,15 +67,18 @@ Build and view html
 RESOURCES
 ================================================================================
 
-**Homestead**
+**Classic**
+
+* Classic Guide online: https://ethereum-homestead.readthedocs.org/en/latest/index.html
+* Github: https://github.com/ethereumclassic/classic-guide
+* Gitter: https://gitter.im/ethereumclassic/classic-guide
+
+**Homestead and legacy docs**
 
 * Homestead Guide online: https://ethereum-homestead.readthedocs.org/en/latest/index.html
 * Github: https://github.com/ethereum/homestead-guide
 * Gitter: https://gitter.im/ethereum/homestead-guide
 * Google doc: https://docs.google.com/document/d/1rVjrNgaDRAQdPp4rGqWrEk5fPgiHff0xsYGCyf06oM8/edit
-
-**Legacy Docs**
-
 * Ethereum Wiki: https://github.com/ethereum/wiki/wiki
 * Frontier Guide: https://ethereum.gitbooks.io/frontier-guide/content/ (see below for converted files)
 * Souptacular's Giant List of Ethereum Resources: https://souptacular.gitbooks.io/ethereum-tutorials-and-tips-by-hudson/content/giant_ethereum_resource_list.html
@@ -103,21 +106,19 @@ Directory structure
       Makefile - platforms with make to build docs
 
 
-Roadmap for Homestead Guide (Old)
+Roadmap for Classic Guide 
 ================================================================================
 
-* boilerplate using sphinx-quickstart
-* settings in `conf.py`
-* code up index with proposed structure
+* fork homestead guide from ethereum
 * compile/deploy on readthedocs
 * include cheatsheat, rst/sphinx/readthedocs resources
-* reach out to community reddit - homestead documentation initiative
+* reach out to community reddit - classic documentation initiative
 * allocate chapters to people (ideally author and reviewer)
 * migrate old wiki under frontier/wiki (all md files converted to rst)
 * migrate old frontier-guide content under frontier/gitbook (all md content converted to rst)
 * script to annotate entire wiki with legacy warning
 
-Strategy for migrating old fronter-guide content (Old)
+Strategy for migrating old Homestead-guide content (Old)
 ========================================================
 
 * temporaritly include resources about the documentation project within the book itself

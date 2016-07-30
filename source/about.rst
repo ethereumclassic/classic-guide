@@ -1,10 +1,10 @@
 ***************************************
-The Homestead Documentation Initiative
+The Classic Documentation Initiative
 ***************************************
 |Gitter|
 
-.. |Gitter| image:: img/homestead-guide.svg
-   :target: https://gitter.im/ethereum/homestead-guide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+.. |Gitter| image:: img/classic-guide.svg
+   :target: https://gitter.im/ethereumclassic/classic-guide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
 
 Purpose and Audience
 ===============================================================================

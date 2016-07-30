@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 #
-# Ethereum Homestead documentation build configuration file, created by
-# sphinx-quickstart on Tue Jan  5 17:30:05 2016.
+# Ethereum Classic documentation build configuration file, modified by
+# realcodywburns on Sat Jul  30 7:30:05 2016.
 #
 # This file is execfile()d with the current directory set to its
 # containing dir.
@@ -54,9 +54,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Ethereum Homestead'
-copyright = u'2016, Ethereum community'
-author = u'Ethereum community'
+project = u'Ethereum Classic'
+copyright = u'2016, Ethereum classic community'
+author = u'Ethereum classic community'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -210,7 +210,7 @@ html_theme = 'sphinx_rtd_theme'
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'homesteadguidedoc'
+htmlhelp_basename = 'classicguidedoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -234,8 +234,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'homesteadguide.tex', u'Ethereum Homestead Documentation',
-   u'Ethereum community', 'manual'),
+  (master_doc, 'classicguide.tex', u'Ethereum Classic Documentation',
+   u'Ethereum classic community', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -264,7 +264,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'homesteadguide', u'Ethereum Homestead Documentation',
+    (master_doc, 'classicguide', u'Ethereum Classic Documentation',
      [author], 1)
 ]
 
@@ -278,8 +278,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'homesteadguide', u'Ethereum Homestead Documentation',
-   author, 'homesteadguide', 'One line description of project.',
+  (master_doc, 'classicguide', u'Ethereum Classic Documentation',
+   author, 'classicguide', 'One line description of project.',
    'Miscellaneous'),
 ]
 

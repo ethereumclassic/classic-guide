@@ -8,16 +8,17 @@ Please choose your forum wisely when starting a discussion or asking a question,
 
 Reddit
 ================================================================================
-The `Ethereum subreddit`_ is the most inclusive Ethereum forum, where most of the community discussion is happening and where core devs are also active. This is your forum of choice for generic discussion of news, media coverage, announcements, brainstorming. In general all things Ethereum relevant to the wider community.
+The `Ethereum classic subreddit`_ is the most inclusive Ethereum classic forum, where most of the community discussion is happening and where core devs are also active. This is your forum of choice for generic discussion of news, media coverage, announcements, brainstorming. In general all things Ethereum relevant to the wider community.
 
 Strictly no price discussion.
 
 Also, this is not the ideal place to ask for hands-on help or post questions you expect there are clear immediate answers to (use :ref:`gitter-rooms` and :ref:`stack-exchange` for these, respectively).
 
-Read the `Ethereum subreddit rules`_ before posting.
+Read the `Ethereum classic subreddit rules`_ before posting.
 
 Further specialised subreddits:
 
+* `/r/Ethereum <https://www.reddit.com/r/Etherum/>`_- Ether hard-fork discussion
 * `/r/EthTrader <https://www.reddit.com/r/EthTrader/>`_ - Ether trading, price and  market
 * `/r/EtherMining <https://www.reddit.com/r/EtherMining/>`_ - Ether mining discussion
 * `/r/Ethmarket <https://www.reddit.com/r/ethmarket/>`_ - Marketplace for individuals looking to exchange goods and services for Ether
@@ -25,8 +26,8 @@ Further specialised subreddits:
 * `/r/ethereumism/ <https://www.reddit.com/r/ethereumism/>`_ - a bit more ism, ostic, ical, ist and tinfoil hats, pyramids and crystal ball type of views - the ethereal side of Ethereum
 
 
-.. _Ethereum subreddit: https://www.reddit.com/r/ethereum/
-.. _Ethereum subreddit rules: http://www.reddit.com/r/ethereum/comments/3auc97/ethereum_subreddit_rules/
+.. _Ethereum classic subreddit: https://www.reddit.com/r/ethereumclassic/
+.. _Ethereum classic subreddit rules: http://www.reddit.com/r/ethereumclassic/comments/3auc97/ethereum_subreddit_rules/
 
 .. _stack-exchange:
 
@@ -36,6 +37,7 @@ Stack Exchange
 The `Ethereum Stack Exchange <http://ethereum.stackexchange.com/>`_ is part of the StackExchange network of Q&A communities. StackExchange is a free Q&A site where all the questions and answers are preserved for posterity.
 
 This is the best place to ask technical questions. Help your fellow etherians by answering questions and collect reputation points.
+
 
 .. _gitter-rooms:
 

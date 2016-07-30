@@ -1,12 +1,12 @@
-.. homestead guide documentation master file, created by
+.. Homestead guide documentation master file, created by
    sphinx-quickstart on Tue Jan  5 17:30:05 2016.
    You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+   contain the root `toctree` directive. Modification to classic began on Sat Jul 30 07:00:00 2016
 
-Ethereum Homestead Documentation
+Ethereum Classic Documentation
 ===============================================================================
 
-..  image:: img/ethereum-homestead-documentation-logo.png
+..  image:: img/ethereum-classic-documentation-logo.png
 ..   :height: 500px
 ..   :width: 394 px
    :scale: 50 %

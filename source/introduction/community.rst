@@ -31,17 +31,56 @@ Further specialised subreddits:
 
 .. _stack-exchange:
 
-Stack Exchange
+Stack Exchange (old)
 ================================================================================
 
-The `Ethereum Stack Exchange <http://ethereum.stackexchange.com/>`_ is part of the StackExchange network of Q&A communities. StackExchange is a free Q&A site where all the questions and answers are preserved for posterity.
+The `Ethereum Classic Stack Exchange <http://ethereum.stackexchange.com/>`_ is part of the StackExchange network of Q&A communities. StackExchange is a free Q&A site where all the questions and answers are preserved for posterity.
 
 This is the best place to ask technical questions. Help your fellow etherians by answering questions and collect reputation points.
+
+.. _Telegram:
+
+Telegram
+================================================================================
+
+* Ethereum Classic (general discussion): @ethclassic 
+* Ethereum Classic Dev: @etcdev
+
+
+.. _slack:
+
+Slack
+================================================================================
+* `https://ethereumclassic.slack.com/ <https://ethereumclassic.slack.com/>`_
+
+.. _Ethereum Improvement Proposals:
+
+Ethereum Improvement Proposals (EIPs)
+================================================================================
+
+The EIP scheme aims to be a framework and largely informal business process coordinating improvements to the protocols. People should first propose their idea as an issue or pull request to the EIPs repository. After basic filtering, the proposal will receive a number and is published in draft form. For an EIP to become Active it will require the mutual consent of the community. Those proposing changes should consider that ultimately consent may rest with the consensus of the Ethereum users.
+For discussion of EIPs, use the `gitter channel for EIP discussions`_.
+
+* `EIP guidelines and sample EIP <https://github.com/ethereumproject/EIPs>`_
+* `EIP template <https://github.com/ethereumproject/EIPs/blob/master/eip-X.mediawiki>`_
+* `EIP repository and README <https://github.com/ethereumproject/EIPs>`_
+
+
+.. _Chinese Community:
+
+Chinese Community
+================================================================================
+
+* WeChat group:  ETC以太坊Classic
+* QQ group: 361470220
+* Weibo Group: `http://weibo.com/ethereumclassic/`_
+* Chinese Wiki: `http://assembly.io/ <http://assembly.io/`_
+
 
 
 .. _gitter-rooms:
 
-Gitter Rooms
+Gitter Rooms (old)
 ================================================================================
 
 Gitter is our forum of choice for daily chat. It is the virtual coworking space where devs hang out, so it is where you can get quick help and a bit of handholding if needed.
@@ -84,23 +123,9 @@ See `the full list of gitter rooms for the Ethereum organisation`_. Below is the
 .. _ethereumjs-lib: https://gitter.im/ethereum/ethereumjs-lib
 .. _devp2p: https://gitter.im/ethereum/devp2p
 
-.. _Ethereum Improvement Proposals:
 
-Ethereum Improvement Proposals (EIPs)
-================================================================================
 
-The EIP scheme aims to be a framework and largely informal business process coordinating improvements to the protocols. People should first propose their idea as an issue or pull request to the EIPs repository. After basic filtering, the proposal will receive a number and is published in draft form. For an EIP to become Active it will require the mutual consent of the community. Those proposing changes should consider that ultimately consent may rest with the consensus of the Ethereum users.
-For discussion of EIPs, use the `gitter channel for EIP discussions`_.
 
-* `EIP guidelines and sample EIP <https://github.com/ethereum/EIPs/blob/master/EIPS/eip-1.mediawiki>`_
-* `EIP template <https://github.com/ethereum/EIPs/blob/master/eip-X.mediawiki>`_
-* `EIP repository and README <https://github.com/ethereum/EIPs>`_
-* `gitter channel for EIP discussions <https://gitter.im/ethereum/EIPs>`_
-
-Meetups
-================================================================================
-* `Directory hosted on Meetup <http://www.meetup.com/topics/ethereum/>`_
-* `Meetup channel on Ethereum Forum <http://forum.ethereum.org/categories/meetups/>`_
 
 Obsolete
 ===================

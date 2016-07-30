@@ -1,3 +1,10 @@
+..  image:: source/img/ethereum-classic-documentation-logo.png
+..   :height: 500px
+..   :width: 394 px
+   :scale: 50 %
+   :alt: ethereum-logo
+   :align: center
+
 *****************************
 Classic-Guide
 *****************************

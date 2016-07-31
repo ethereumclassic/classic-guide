@@ -15,7 +15,7 @@ Classic-Guide
 
 The Ethereum Classic Guide is the reference documentation accompanying the hard-fork of the Ethereum project.
 
-`Hosted on ReadTheDocs`_
+.. `Hosted on ReadTheDocs`_
 
 HOW YOU CAN HELP
 ================================================================================
@@ -27,11 +27,13 @@ Write Content to the Guide
 --------------------------------------------------------------------------------
 Help transfer and update content from the Ethereum Wiki, Ethereum Frontier Guide, the Ethereum Stack Exchange, Ethereum Homestead Guide or any other reputable source to relevant pages of the Classic guide. Alternatively, write your own content for the guide based on experience.
 
-Make sure the documentation you are porting over is still accurate and follows our guidelines for the Classic docs (https://ethereum-homestead.readthedocs.org/en/latest/about.html).
+Make sure the documentation you are porting over is still accurate and follows our guidelines for the Classic docs. 
+
+.. (https://ethereum-homestead.readthedocs.org/en/latest/about.html)
 
 Review What Has Been Written
 --------------------------------------------------------------------------------
-Have a look at our guide (https://ethereum-homestead.readthedocs.org/en/latest/) and give us feedback by visiting our Gitter Chatroom (https://gitter.im/ethereumclassic/classic-guide) or submit a pull request or issue to this repo. Too EZ.
+Have a look at our guide and give us feedback by visiting our Gitter Chatroom (https://gitter.im/ethereumclassic/classic-guide) or submit a pull request or issue to this repo. Too EZ.
 
 What's In It For Me?
 --------------------------------------------------------------------------------
@@ -76,7 +78,7 @@ RESOURCES
 
 **Classic**
 
-* Classic Guide online: https://ethereum-homestead.readthedocs.org/en/latest/index.html
+.. * Classic Guide online: https://ethereum-homestead.readthedocs.org/en/latest/index.html
 * Github: https://github.com/ethereumclassic/classic-guide
 * Gitter: https://gitter.im/ethereumclassic/classic-guide
 

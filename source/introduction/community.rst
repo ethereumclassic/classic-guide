@@ -29,14 +29,13 @@ Further specialised subreddits:
 .. _Ethereum classic subreddit: https://www.reddit.com/r/ethereumclassic/
 .. _Ethereum classic subreddit rules: http://www.reddit.com/r/ethereumclassic/comments/3auc97/ethereum_subreddit_rules/
 
-.. _stack-exchange:
+.. _wiki:
 
-Stack Exchange (old)
+Ethereum Classic Wiki
 ================================================================================
 
-The `Ethereum Classic Stack Exchange <http://ethereum.stackexchange.com/>`_ is part of the StackExchange network of Q&A communities. StackExchange is a free Q&A site where all the questions and answers are preserved for posterity.
+* Ethereum Classic Wiki: `ETHC wiki <http://ethcwiki.org/index.php?title=Main_Page>`_
 
-This is the best place to ask technical questions. Help your fellow etherians by answering questions and collect reputation points.
 
 .. _Telegram:
 
@@ -73,8 +72,23 @@ Chinese Community
 
 * WeChat group:  ETC以太坊Classic
 * QQ group: 361470220
-* Weibo Group: `http://weibo.com/ethereumclassic/`_
-* Chinese Wiki: `http://assembly.io/ <http://assembly.io/`_
+* Weibo Group: `http://weibo.com/ethereumclassic/ <http://weibo.com/ethereumclassic/>`_
+* Chinese Wiki: `http://assembly.io/ <http://assembly.io>`_
+* 8btc: `http://8bct.com/forum-126-1.html <http://8bct.com/forum-126-1.html>`_
+.. _Russian Community:
+
+Russian Community
+================================================================================
+* `https://bitcointalk.org/index.php?topic=1563268 <https://bitcointalk.org/index.php?topic=1563268>`_
+* `https://bitcointalk.org/index.php?topic=1563328 <https://bitcointalk.org/index.php?topic=1563328>`_
+* `https://ethclassic.ru <https://ethclassic.ru>`_
+
+.. _Indonesian Community:
+
+Indonesian Community
+================================================================================
+* `https://bitcointalk.org/index.php?topic=1563400 <`https://bitcointalk.org/index.php?topic=1563400>`_
+
 
 
 
@@ -123,6 +137,15 @@ See `the full list of gitter rooms for the Ethereum organisation`_. Below is the
 .. _ethereumjs-lib: https://gitter.im/ethereum/ethereumjs-lib
 .. _devp2p: https://gitter.im/ethereum/devp2p
 
+
+.. _stack-exchange:
+
+Stack Exchange (old)
+================================================================================
+
+The `Ethereum Classic Stack Exchange <http://ethereum.stackexchange.com/>`_ is part of the StackExchange network of Q&A communities. StackExchange is a free Q&A site where all the questions and answers are preserved for posterity.
+
+This is the best place to ask technical questions. Help your fellow etherians by answering questions and collect reputation points.
 
 
 

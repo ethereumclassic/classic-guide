@@ -11,7 +11,7 @@ Classic-Guide
 |Gitter|
 
 .. |Gitter| image:: https://badges.gitter.im/ethereumclassic/classic-guide.svg
-   :target: https://gitter.im/ethereumclassic/classic-guide?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
+   :target: https://gitter.im/etherumclassic/classic-guide?utm_source=share-link&utm_medium=link&utm_campaign=share-link
 
 The Ethereum Classic Guide is the reference documentation accompanying the hard-fork of the Ethereum project.
 

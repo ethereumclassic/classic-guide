@@ -8,14 +8,19 @@
 *****************************
 Classic-Guide
 *****************************
-|Gitter|
+|Gitter|   |readthedoc|
 
 .. |Gitter| image:: https://badges.gitter.im/ethereumclassic/classic-guide.svg
    :target: https://gitter.im/etherumclassic/classic-guide?utm_source=share-link&utm_medium=link&utm_campaign=share-link
 
+
+.. |readthedoc| image:: https://readthedocs.org/projects/ethereum-classic-guide/badge/?version=latest
+   :target: http://ethereum-classic-guide.readthedocs.io/en/latest/?badge=latest
+ 
+
 The Ethereum Classic Guide is the reference documentation accompanying the hard-fork of the Ethereum project.
 
-.. `Hosted on ReadTheDocs`_
+`Hosted on ReadTheDocs`_
 
 HOW YOU CAN HELP
 ================================================================================
@@ -27,9 +32,7 @@ Write Content to the Guide
 --------------------------------------------------------------------------------
 Help transfer and update content from the Ethereum Wiki, Ethereum Frontier Guide, the Ethereum Stack Exchange, Ethereum Homestead Guide or any other reputable source to relevant pages of the Classic guide. Alternatively, write your own content for the guide based on experience.
 
-Make sure the documentation you are porting over is still accurate and follows our guidelines for the Classic docs. 
-
-.. (https://ethereum-homestead.readthedocs.org/en/latest/about.html)
+Make sure the documentation you are porting over is still accurate and follows our guidelines for the Classic docs. (http://ethereum-classic-guide.readthedocs.io/en/latest/about.html)
 
 Review What Has Been Written
 --------------------------------------------------------------------------------
@@ -62,11 +65,11 @@ For Windows users:
 
 Get source code
 --------------------------------------------------------------------------------
-* git clone: https://github.com/ethereum/homestead-guide.git
+* git clone: https://github.com/ethereumclassic/classic-guide.git
 
 Build and view html
 --------------------------------------------------------------------------------
-* In a terminal window, go to your homestead-guide directory.
+* In a terminal window, go to your classic-guide directory.
 * ``make html``
 * ``cd build/html``
 * ``open index.html`` (open in web browser)
@@ -78,7 +81,7 @@ RESOURCES
 
 **Classic**
 
-.. * Classic Guide online: https://ethereum-homestead.readthedocs.org/en/latest/index.html
+* Classic Guide online: http://ethereum-classic-guide.readthedocs.io/en/latest/index.html
 * Github: https://github.com/ethereumclassic/classic-guide
 * Gitter: https://gitter.im/ethereumclassic/classic-guide
 
@@ -139,4 +142,4 @@ Strategy for migrating old Homestead-guide content (Old)
 * include the rst conversion of the wiki
 * include the rst conversion of the gitbook
 
-.. _Hosted on ReadTheDocs: https://ethereum-homestead.readthedocs.org/en/latest/
+.. _Hosted on ReadTheDocs: https://ethereum-classic-guide.readthedocs.io/en/latest/

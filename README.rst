@@ -26,7 +26,7 @@ HOW YOU CAN HELP
 ================================================================================
 **Classic Documentation Initiative**
 
-It doesn't matter if you are a beginner or an expert, there are many ways to help.
+It doesn't matter if you are a beginner or an expert, there are many ways to help!
 
 Write Content to the Guide
 --------------------------------------------------------------------------------

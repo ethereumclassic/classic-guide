@@ -1,8 +1,1 @@
-build
-
-# emacs Backup files
-*~
-
-# MacOS Development
-.DS_Store
-
+build/

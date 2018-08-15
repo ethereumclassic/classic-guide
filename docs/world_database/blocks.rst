@@ -4,9 +4,9 @@ Blocks
 ================================================================================
 
 The ETC blockchain is composed of an array of blocks.  Blocks contain three
-categories of information: *computation*, *consensys* and *context*.  Blocks
+categories of information: *computation*, *consensus* and *context*.  Blocks
 contain transaction related information (computation), mining related
-information (consensys), and, information to properly locate blocks
+information (consensus), and, information to properly locate blocks
 on the blockchain (context).  All components except for two lists form the block
 headers.
 
@@ -20,23 +20,23 @@ Transactions initiate all activity on the world computer.  This category
 contains information related to this computation.  Specifically, these
 block components consist of the following:
 
-transaction lists
+transaction list
    lists of transactions
 
-transaction list root hashes
+transactions root (transaction list root hash)
    :ref:`root hashes <app_root_hashes>` of transaction lists
 
-transaction list gas requirements
-   gas requirements for all the transactions in the transaction list
+gas used (transaction list total gas requirement)
+   gas requirements for *all* the transactions in the transaction list
 
-transaction list state root hashes
+state root (transaction list final state root hash)
    :ref:`root hashes <app_root_hashes>` of the states *after* each transaction
    is applied
 
-transaction log list root hashes
+receipts root (transaction log list root hash)
    :ref:`root hashes <app_root_hashes>` of transaction log lists
 
-transaction log list Bloom filters
+logs Bloom (transaction log list Bloom filter)
    :ref:`Bloom filters <app_bloom_filters>` of transaction log lists
 
 It may seem problematic that blocks only contain root hashes of states and
@@ -44,10 +44,10 @@ transaction logs.  Nevertheless, the full specification of any state or
 transaction log can always be obtained by reapplying all the transactions on the
 blockchain with respect to the initial state.
 
-.. _sec_consensys:
+.. _sec_consensus:
 
 --------------------------------------------------------------------------------
-Consensys
+Consensus
 --------------------------------------------------------------------------------
 
 Mining is the process of creating and validating new blocks. This is referred to
@@ -60,28 +60,28 @@ of computational work was done.  The block candidates that lose this race are
 referred to as the *uncle* blocks since they are related to the parents or last
 blocks added.  These block components consist of the following:
 
-miner extra data
+extra data (miner extra data)
    32 unused bytes added by miners
 
-miner addresses
+beneficiary (miner address)
    addresses with respect to block mining rewards
 
-miner validation help
+mix hash (miner validation help)
    values that help miners validate blocks faster
 
-miner gas maxima
+gas limit (miner gas maximum)
    maximum possible gas requirements to apply all transactions in blocks
 
-proof of work information
+nonce (proof of work information)
    the number required to add blocks to the blockchain
 
-proof of work difficulty
+difficulty (proof of work difficulty)
    difficulty of finding proof of work information for the block
 
-uncle header lists
+ommer header list (uncle header list)
    lists of the headers of the associated uncles
 
-uncle header list root hashes
+ommers hash (uncle header list root hash)
    Keccak 256 hashes of uncle header lists
 
 The miner validation help components are necessary because slow block validation
@@ -101,14 +101,14 @@ Context
 Blocks must always located correctly in the blockchain.  Here are the blockchain
 components pertaining to context.
 
-block numbers
+number (block number)
    the numbers of blocks that must precede blocks on the blockchain
 
-parent header hashes
+parent hash (parent header hash)
    Keccak 256 hash of parent block headers
 
-dates & times
-   dates and times blocks were added to the blockchain
+timestamp (date & time)
+   dates and times that blocks were added to the blockchain
 
 The parent block of a block is the preceding block on the blockchain.  Dates and
 times are denoted by the number of seconds since 1970–01–01 00:00:00 UTC.

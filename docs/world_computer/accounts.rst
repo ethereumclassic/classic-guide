@@ -7,22 +7,22 @@ Accounts are associated with users and
 :ref:`smart contracts <ch_smart_contracts>`.   All accounts contain the
 following five components:
 
-addresses
+address
    These are sets of numbers used to identify accounts.
 
-funds
+balance
    All funds are associated with accounts.  This is a balance of classic ether,
    also know as ether or ETC.
 
-smart contracts
-   All smart contracts are associated with accounts.  This component is an
+code (smart contract)
+   All smart contracts are associated with accounts.  This component is
+   an empty string for user accounts.
+
+storage
+   All smart contracts have associated memory.  This component is an
    empty string for user accounts.
 
-memories
-   All smart contracts have associated memory arrays.  This component is an
-   empty string for user accounts.
-
-nonces
+nonce
    Nonces are counters.  For user accounts, these equal the number of associated
    :ref:`transactions <ch_trans>`.  For smart contract accounts, these
    equal the number of associated smart contracts created.

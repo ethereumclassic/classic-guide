@@ -26,7 +26,7 @@ manage countless agreements in a secure, reliable and trustless manner.  For
 this reason ETC programs are referred to as smart contracts.
 
 ETC smart contracts can read and write to their own storage as well as invoking
-other smart contracts.  In this way, smart contracts can work to together to
+other smart contracts.  In this way, smart contracts can work together to
 provide increasingly sophisticated services.
 
 Some, like Nick Szabo, envision smart contracts streamlining voluntary
@@ -54,12 +54,12 @@ Smart Contract Languages
 
 Typically smart contracts are written in high level languages.  The
 corresponding source code is compiled to the equivalent ETC virtual machine
-instructions.  The most popular high level smart contract language is Solidity
-although there are other possible choices such as Vyper.  Solidity is a
-Javascript like language designed to be easily adopted by new developers.  Here
-is a Solidity source code for a simple program that maintains a counter
-variable.  The counter can be incremented by anyone but only the user account
-that created the smart contract can reset the counter value:
+instructions.  The most popular high level smart contract language is Solidity.
+There are also other possible choices such as Vyper.  Solidity is a Javascript
+like language designed to be easily adopted by new developers.  Here is the
+Solidity source code for a simple program.  All it does is maintain a counter
+variable.  The counter can be incremented by anyone.  Only the user account that
+created the smart contract can reset the counter value:
 
 .. sourcecode:: javascript
 
@@ -94,8 +94,8 @@ that created the smart contract can reset the counter value:
            }
    }
 
-Here is Solidity source code for a more complex program that implements a new
-token:
+Here is Solidity source code for a more complex program.  This one implements a
+new token:
 
 .. sourcecode:: javascript
 
@@ -268,8 +268,7 @@ Multisig Smart Contracts
 --------------------------------------------------------------------------------
 
 Multisig smart contracts will likely be the dominant smart contract type in the
-future. The security and other benefits are that compelling. I will describe
-these smart contract types and scenarios where they are useful.
+future. The security and other benefits are that compelling.
 
 Malware, keyboard loggers and “man in the middle attacks” are just some of the
 ways passwords can be stolen. Therefore, many use multifactor authentication to
@@ -297,30 +296,30 @@ Online Shopping (Trusted Escrow)
    account. Allow an arbiter to control the third associated account. Notice
    buyers and sellers can together release funds without the arbiter. In the
    event of disagreements notice the arbiters can, together with buyers or
-   sellers, release funds to the desired choices. This is referred to as trusted
-   escrow because the arbiter does not control of any funds.
+   sellers, release funds to the desired choices.  Because the arbiter does not
+   control any funds, this is referred to as trusted escrow.
 
 Small Businesses
-   Imagine a small business controlling one associated account, and, a separate
-   inspection service company controlling the second associated account. All
-   transactions must be approved by the inspection service. To protect against
-   issues with either account, store the information for the third associated
-   account in a secured paper wallet.
+   Imagine a small business controlling one associated account.  Imagine a
+   separate inspection service company controlling the second associated
+   account. All transactions must be approved by the inspection service. To
+   protect against any issues with the accounts, store the information for
+   the third associated account in a secured paper wallet.
 
 Here are two more multisig smart contract types and applications:
 
 Majority Rule
    Imagine all members of a group controlling separate associated
-   accounts. Always require digital signatures from any majority of the
+   accounts. Imagine requiring digital signatures from any majority of the
    accounts. This would implement a majority rule arrangement.
 
 Unanimity Rule
    Imagine all members of a group controlling separate associated
-   accounts. Always require digital signatures from all of the accounts. This
+   accounts. Imagine requiring digital signatures from all of the accounts. This
    would implement a unanimity rule arrangement.
 
 There are currently no ETC multisig smart contract standards. However, open
-source templates are available such as from the OpenZeppelin project.
+source templates are available - such as from the OpenZeppelin project.
 
 There are several common scenarios where multisig smart contracts are useful and
 significantly increase security. Therefore, it is likely they will take over ETC

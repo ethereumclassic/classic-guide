@@ -14,3 +14,4 @@ blank
    code_is_law_principle
    crypto_decen_man
    dec_of_ind
+   glossary

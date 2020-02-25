@@ -6,10 +6,17 @@ Clients
 To interact with the ETC world computer requires communicating with a computer
 on the ETC network.  It is relatively easy to set up a computer to become part
 of the network.  This requires the installation of an implementation of the ETC
-communication protocols.  Possible choices include
-`Geth <https://github.com/ethereumproject/go-ethereum>`_,
-`Parity <https://github.com/paritytech/parity>`_
-and `Mantis <https://github.com/input-output-hk/mantis>`_.
+communication protocols.
+
+## Ethereum Classic Network Clients
+
+| Client Name | Status | Repository | |
+| --- | ---| --- | --- |
+| [Core Geth](https://github.com/etclabscore/core-geth) | Maintained | [releases](https://github.com/etclabscore/core-geth/releases) | *Recommended* |
+| [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) | *Recommended* |
+| [Multi-Geth](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) | *ETC Development Support Uncertain* |
+| [Parity-Ethereum](https://www.parity.io/) | Maintained | [releases](https://github.com/paritytech/parity-ethereum/releases) | *Development Licensing Uncertain* |
+
 To use ETC, it is not necessary to set up a new computer on the
 network. Applications can simply request information from other network
 computers.  Such applications are referred to as *light clients*.  Whether using

@@ -159,7 +159,7 @@ the values of the system to be compromised. As a united community, we will
 continue to organize for the defense and advancement, as required, for the
 continuation and assurance of this grand experiment. The Ethereum Classic
 platform, its code and technology, are now open to the world as Open Source
-software. `[9] <https://github.com/ethereumproject>`_ It is now freely available
+software. `[9] <https://github.com/ethereumclassic>`_ It is now freely available
 for all who wish to improve and build upon it: a truly free and trustless world
 computer that we together as a community have proven and will continue to prove
 is anti-fragile. `[10] <https://en.wikipedia.org/wiki/Antifragile>`_

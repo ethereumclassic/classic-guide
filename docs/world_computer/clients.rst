@@ -10,12 +10,12 @@ communication protocols.
 
 ## Ethereum Classic Network Clients
 
-| Client Name | Status | Repository | |
+| Client Name | Status | Repository | Support |
 | --- | ---| --- | --- |
-| [Core Geth](https://github.com/etclabscore/core-geth) | Maintained | [releases](https://github.com/etclabscore/core-geth/releases) | *Recommended* |
-| [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) | *Recommended* |
-| [Multi-Geth](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) | *ETC Development Support Uncertain* |
-| [Parity-Ethereum](https://www.parity.io/) | Maintained | [releases](https://github.com/paritytech/parity-ethereum/releases) | *Development Licensing Uncertain* |
+| [Core-Geth](https://core-geth.org/) | Maintained | [releases](https://github.com/etclabscore/core-geth/releases) | [gitter](https://gitter.im/core-geth/community) |
+| [Hyperledger Besu](https://besu.hyperledger.org/) | Maintained | [releases](https://github.com/hyperledger/besu/releases) | [rocket chat](https://chat.hyperledger.org/) |
+| [Multi-Geth](https://github.com/multi-geth) | Maintained | [releases](https://github.com/multi-geth/multi-geth/releases) | [gitter](https://gitter.im/multi-geth/community) |
+| [OpenEthereum](https://github.com/openethereum) | Maintained | [releases](https://github.com/openethereum/openethereum/releases) | [discord](http://discord.io/openethereum) |
 
 To use ETC, it is not necessary to set up a new computer on the
 network. Applications can simply request information from other network

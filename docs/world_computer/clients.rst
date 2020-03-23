@@ -19,7 +19,7 @@ communication protocols.
 +---------------------------------------------------------+------------+---------------------------------------------------------------------+-----------------------------------------------------+
 | `Hyperledger Besu <https://besu.hyperledger.org/>`_     | Maintained | `releases <https://github.com/hyperledger/besu/releases>`_          | `rocket chat <https://chat.hyperledger.org/>`_      |
 +---------------------------------------------------------+------------+---------------------------------------------------------------------+-----------------------------------------------------+
-| `Multi-Geth <https://github.com/multi-geth>`_           | Maintained | `releases <https://github.com/multi-geth/multi-geth/releases>`_     | `gitter <https://gitter.im/multi-geth/community>`_` |
+| `Multi-Geth <https://github.com/multi-geth>`_           | Maintained | `releases <https://github.com/multi-geth/multi-geth/releases>`_     | `gitter <https://gitter.im/multi-geth/community>`_  |
 +---------------------------------------------------------+------------+---------------------------------------------------------------------+-----------------------------------------------------+
 | `OpenEthereum <https://github.com/openethereum>`_       | Maintained | `releases <https://github.com/openethereum/openethereum/releases>`_ | `discord <http://discord.io/openethereum>`_         |
 +---------------------------------------------------------+------------+---------------------------------------------------------------------+-----------------------------------------------------+

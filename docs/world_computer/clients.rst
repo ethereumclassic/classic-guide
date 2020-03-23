@@ -9,7 +9,7 @@ of the network.  This requires the installation of an implementation of the ETC
 communication protocols.
 
 --------------------------------------------------------------------------------
-## Ethereum Classic Network Clients
+Ethereum Classic Network Clients
 --------------------------------------------------------------------------------
 
 +---------------------------------------------------------+------------+---------------------------------------------------------------------+-----------------------------------------------------+
@@ -23,7 +23,7 @@ communication protocols.
 +---------------------------------------------------------+------------+---------------------------------------------------------------------+-----------------------------------------------------+
 | `OpenEthereum <https://github.com/openethereum>`_       | Maintained | `releases <https://github.com/openethereum/openethereum/releases>`_ | `discord <http://discord.io/openethereum>`_         |
 +---------------------------------------------------------+------------+---------------------------------------------------------------------+-----------------------------------------------------+
-
+Last Update: March 2020
 
 To use ETC, it is not necessary to set up a new computer on the
 network. Applications can simply request information from other network

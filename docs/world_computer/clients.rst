@@ -15,13 +15,13 @@ communication protocols.
 +------------------------------------------------+------------+----------------------------------------------------------------+-------------------------------------------------+
 | Client Name                                    | Status     | Repository                                                     | Support                                         |
 +================================================+============+================================================================+=================================================+
-| Core-Geth https://core-geth.org/               | Maintained | releases https://github.com/etclabscore/core-geth/releases     | _gitter: https://gitter.im/core-geth/community  |
+| Core-Geth_https://core-geth.org/               | Maintained | releases https://github.com/etclabscore/core-geth/releases     | _gitter: https://gitter.im/core-geth/community  |
 +------------------------------------------------+------------+----------------------------------------------------------------+-------------------------------------------------+
-| Hyperledger Besu https://besu.hyperledger.org/ | Maintained | releases https://github.com/hyperledger/besu/releases          | _rocket chat: https://chat.hyperledger.org/     |
+| Hyperledger Besu_https://besu.hyperledger.org/ | Maintained | releases https://github.com/hyperledger/besu/releases          | _rocket chat: https://chat.hyperledger.org/     |
 +------------------------------------------------+------------+----------------------------------------------------------------+-------------------------------------------------+
-| Multi-Geth https://github.com/multi-geth       | Maintained | releases https://github.com/multi-geth/multi-geth/releases     | _gitter: https://gitter.im/multi-geth/community |
+| Multi-Geth_https://github.com/multi-geth       | Maintained | releases https://github.com/multi-geth/multi-geth/releases     | _gitter: https://gitter.im/multi-geth/community |
 +------------------------------------------------+------------+----------------------------------------------------------------+-------------------------------------------------+
-| OpenEthereum https://github.com/openethereum   | Maintained | releases https://github.com/openethereum/openethereum/releases | _discord: http://discord.io/openethereum        |
+| OpenEthereum_https://github.com/openethereum   | Maintained | releases https://github.com/openethereum/openethereum/releases | _discord: http://discord.io/openethereum        |
 +------------------------------------------------+------------+----------------------------------------------------------------+-------------------------------------------------+
 
 

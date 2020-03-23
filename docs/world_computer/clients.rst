@@ -13,16 +13,15 @@ communication protocols.
 --------------------------------------------------------------------------------
 
 +------------------------+------------+----------+----------+
-| Header row, column 1   | Header 2   | Header 3 | Header 4 |
-| (header rows optional) |            |          |          |
+| Client Name                                      | Status     | Repository | Support |
 +========================+============+==========+==========+
-| body row 1, column 1   | column 2   | column 3 | column 4 |
+| Core-Geth (https://core-geth.org/)               | Maintained | releases (https://github.com/etclabscore/core-geth/releases) | gitter (https://gitter.im/core-geth/community) |
 +------------------------+------------+----------+----------+
-| body row 2             | Cells may span columns.          |
+| .. _Hyperledger Besu: https://besu.hyperledger.org/ | Maintained | releases (https://github.com/hyperledger/besu/releases) | rocket chat (https://chat.hyperledger.org/) |
 +------------------------+------------+---------------------+
-| body row 3             | Cells may  | - Table cells       |
+| Multi-Geth (https://github.com/multi-geth)       | Maintained | releases (https://github.com/multi-geth/multi-geth/releases) | gitter (https://gitter.im/multi-geth/community) |
 +------------------------+ span rows. | - contain           |
-| body row 4             |            | - body elements.    |
+| OpenEthereum (https://github.com/openethereum)   | Maintained | releases (https://github.com/openethereum/openethereum/releases) | discord (http://discord.io/openethereum) |
 +------------------------+------------+---------------------+
 
 | Client Name | Status | Repository | Support |

@@ -6,10 +6,25 @@ Clients
 To interact with the ETC world computer requires communicating with a computer
 on the ETC network.  It is relatively easy to set up a computer to become part
 of the network.  This requires the installation of an implementation of the ETC
-communication protocols.  Possible choices include
-`Geth <https://github.com/ethereumproject/go-ethereum>`_,
-`Parity <https://github.com/paritytech/parity>`_
-and `Mantis <https://github.com/input-output-hk/mantis>`_.
+communication protocols.
+
+--------------------------------------------------------------------------------
+Ethereum Classic Network Clients
+--------------------------------------------------------------------------------
+Last Update: March 2020
+
++---------------------------------------------------------+------------+---------------------------------------------------------------------+-----------------------------------------------------+
+| Client Name                                             | Status     | Repository                                                          | Support                                             |
++=========================================================+============+=====================================================================+=====================================================+
+| `Core-Geth <https://core-geth.org/>`_                   | Maintained | `releases <https://github.com/etclabscore/core-geth/releases>`_     | `gitter <https://gitter.im/core-geth/community>`_   |
++---------------------------------------------------------+------------+---------------------------------------------------------------------+-----------------------------------------------------+
+| `Hyperledger Besu <https://besu.hyperledger.org/>`_     | Maintained | `releases <https://github.com/hyperledger/besu/releases>`_          | `rocket chat <https://chat.hyperledger.org/>`_      |
++---------------------------------------------------------+------------+---------------------------------------------------------------------+-----------------------------------------------------+
+| `Multi-Geth <https://github.com/multi-geth>`_           | Maintained | `releases <https://github.com/multi-geth/multi-geth/releases>`_     | `gitter <https://gitter.im/multi-geth/community>`_  |
++---------------------------------------------------------+------------+---------------------------------------------------------------------+-----------------------------------------------------+
+| `OpenEthereum <https://github.com/openethereum>`_       | Maintained | `releases <https://github.com/openethereum/openethereum/releases>`_ | `discord <http://discord.io/openethereum>`_         |
++---------------------------------------------------------+------------+---------------------------------------------------------------------+-----------------------------------------------------+
+
 To use ETC, it is not necessary to set up a new computer on the
 network. Applications can simply request information from other network
 computers.  Such applications are referred to as *light clients*.  Whether using
